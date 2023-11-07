@@ -2,8 +2,16 @@
 ⚠️!-banned for a specified period of time-!⚠️
 ```
 
-### Learning Low Level Programming
+# Low-Level Programming Study Repository
 
-This repository was created to store my study in low programming.
+Bem-vindo ao meu Repositório de Estudo de Programação de Baixo Nível! Este repositório é dedicado à minha jornada de aprendizado de programação de baixo nível, com foco nas linguagens C e Assembly.
 
-I'm reading the book -> https://www.amazon.com.br/Programa%C3%A7%C3%A3o-Baixo-N%C3%ADvel-Programas-Arquitetura/dp/8575226673
+# Sobre
+
+Estou lendo o livro Programação de Baixo Nível, e este repositório serve como armazenamento para todos os meus materiais de estudo, exemplos de código e anotações.
+
+# Estrutura do Repositório
+
+- `questions_book`: Contém arquivos markdown com perguntas relacionadas ao meu estudo. Cada arquivo corresponde a um capítulo ou uma seção do livro.
+- `things`: Contém vários arquivos relacionados à programação de baixo nível. Aqui você pode encontrar exemplos de código, artigos não traduzidos e documentação importante.
+
